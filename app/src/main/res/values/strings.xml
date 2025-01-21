@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="API_BASE_URL">https://api.nbp.pl/api/exchangerates/rates/c/</string>
+    <string name="activity_main_title">Kursy Walut</string>
+    <string name="update_time_label">Aktualizacja: %s</string>
+    <string name="rates_label">%1$.2f PLN</string>
+    <string name="currency_name">Nazwa</string>
+    <string name="currency_rate">Kurs</string>
+</resources>

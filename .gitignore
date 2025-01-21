@@ -1,0 +1,27 @@
+# Built application files
+/*/build/
+
+*.iml
+.gradle
+/local.properties
+
+.idea/
+
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+.signing/
+/gradle/wrapper/
+/app/release/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Log/OS Files
+*.log
+
+*.apk
+output.json
